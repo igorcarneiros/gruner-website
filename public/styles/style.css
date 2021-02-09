@@ -140,9 +140,11 @@ p {
   height: 240px;
 }
 #referencias h3 {
-  text-align: justify;
+  text-align: left;
 }
-
+#referencias p {
+  text-align: left;
+}
 .bg-footer {
   position: bottom;
   color: #8a0808;
